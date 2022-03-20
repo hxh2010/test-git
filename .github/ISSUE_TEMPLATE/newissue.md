@@ -1,8 +1,19 @@
 ---
-name: issue template 2
-about: my description of issue template 2
+name: issue template
+about: 请根据模板提交 issue
 ---
 
-## ISSUE TEMPLATE
+## 重现链接或代码
 
-my content 
+
+## 重现问题步骤
+
+
+## 期望的结果是什么
+
+
+## 实际的结果是什么
+
+
+## 组件库版本号、浏览器信息
+
